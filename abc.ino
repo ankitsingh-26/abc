@@ -63,7 +63,7 @@ void loop()
   Serial.print(angle_s-180);
   Serial.print(" || Wheel angle=");
   Serial.print(90-angle_w);
-  Serial.print(" || Speed=");
+  Serial.print(" || Speed= ");
   Serial.println(speed);
  
     
